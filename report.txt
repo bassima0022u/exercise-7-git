@@ -1,2 +1,2 @@
 Fast forward example
-3-way merge example
+
