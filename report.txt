@@ -1,2 +1,6 @@
 Fast forward example
+<<<<<<< HEAD
 Main branch change
+=======
+3-way merge example
+>>>>>>> feature2
