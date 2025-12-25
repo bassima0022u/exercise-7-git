@@ -1,1 +1,2 @@
 Fast forward example
+Main branch change
